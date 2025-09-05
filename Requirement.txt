@@ -1,0 +1,8 @@
+Requirement
+Mongo db Atlas
+aggregation pipeline mongo db atlas
+power bi desktop 
+-> open power bi and connect mongodb Atlas
+->modelling
+-> create final report of project
+
